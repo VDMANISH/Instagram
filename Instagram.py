@@ -55,8 +55,7 @@ class Account:
         self.followers=[0,[]]
         self.post=[0,[]]
         self.profile=[]
-        self.request=[]
-       
+        self.request=[]     
 #homepage
 ins=insta("Instagram")
 option=0
